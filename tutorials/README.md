@@ -1,3 +1,3 @@
-# Tutorials
+# Tutorials, Tips & Tricks
 
-Basic tutorials for PHPFusion
+Basic Tutorials, Tips & Tricks for PHPFusion
