@@ -38,7 +38,7 @@ If you do not have your 7 installation upgraded to 7.02.07 you must first upgrad
 
 Because v9 has a better upgrade mechanism, you can upgrade directly to the latest v9.
 
-To upgrade you site stast `https://yourdomain.com/install.php` and follow the instructions, click, click and click until done.
+To upgrade your site start `https://yourdomain.com/install.php` and follow the instructions, click, click and click until done.
 
 ---
 
