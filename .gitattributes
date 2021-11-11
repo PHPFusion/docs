@@ -1,0 +1,11 @@
+# Autodetect text files
+* text=auto
+
+# Force LF for all text files
+*.* text eol=lf
+
+# Force images to be handled as binaries
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
