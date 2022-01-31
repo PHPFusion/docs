@@ -1,10 +1,10 @@
-# custom_dbconnet()
+# custom_dbconnect()
 
 Connect to the another database.
 
 ---
 
-custom_dbconnet( string $db_host, string $db_user, string $db_pass, string $db_name int $db_port, string $dbid ) : AbstractDatabaseDriver
+custom_dbconnect( string $db_host, string $db_user, string $db_pass, string $db_name int $db_port, string $dbid ) : AbstractDatabaseDriver
 
 ## Parameters
 
@@ -27,7 +27,7 @@ $dbid (string) (Required) Any string or name.
 ## Examples
 
 ```php
-$connect = custom_dbconnet($db2_host, $db2_user, $db2_pass, $db2_name, 'customdb');
+$connect = custom_dbconnect($db2_host, $db2_user, $db2_pass, $db2_name, 'customdb');
 $result = $connect->query("...");
 
 while ($data = dbarray($result)) {
