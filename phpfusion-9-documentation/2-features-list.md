@@ -93,23 +93,29 @@ PHPFusion 9's features at a glance.
 
 ## 3rd party components
 
-- Bootstrap
-- PHPMailer
-- Font Awesome
-- Entypo
-- autosize.js
-- bootstrap-colorpicker
-- bootstrap-fileinput
-- pwstrength-bootstrap
-- elFinder
-- DataTables
-- tablesorter
-- holder.js
-- jQuery
-- jQuery UI
-- jQuery Highlight
-- clipboard.js
-- TinyMCE
-- js-cookie
-- Colorbox
-- Select2
+- [Bootstrap](https://getbootstrap.com/)
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer/)
+- [Google reCAPTCHA](https://www.google.com/recaptcha)
+- [PHP JS & CSS Minify](https://github.com/matthiasmullie/minify)
+- [Font Awesome](https://fontawesome.com/)
+- [Entypo](http://entypo.com/)
+- [Autosize](https://github.com/jackmoore/autosize)
+- [jscolor](https://jscolor.com/)
+- [Datepicker](https://getdatepicker.com/)
+- [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput)
+- [pwstrength-bootstrap](https://github.com/ablanco/jquery.pwstrength.bootstrap)
+- [Select2](https://select2.org/)
+- [elFinder](https://github.com/Studio-42/elFinder)
+- [Colorbox](https://github.com/jackmoore/colorbox)
+- [DataTables](https://www.datatables.net/)
+- [jQuery](https://jquery.com/)
+- [jQuery UI](https://jqueryui.com/)
+- [jQuery Highlight](https://github.com/bartaz/sandbox.js/blob/master/jquery.highlight.js)
+- [jQuery Mask](https://github.com/igorescobar/jQuery-Mask-Plugin)
+- [Bootstrap Notify](https://github.com/mouse0270/bootstrap-notify)
+- [TinyMCE](https://www.tiny.cloud/tinymce/)
+- [clipboard.js](https://github.com/zenorocha/clipboard.js)
+- [tablesorter](https://github.com/Mottie/tablesorter)
+- [holder.js](https://github.com/imsky/holder)
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+- [PrismJS](https://prismjs.com/)
