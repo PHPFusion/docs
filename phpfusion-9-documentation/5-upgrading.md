@@ -34,7 +34,7 @@ Your site should now be running on the latest PHPFusion version, you can verify 
 
 This upgrade procedure is written to work from PHPFusion 7.02.07 and PHPFusion 8 to PHPFusion 9.xx.xx
 
-If you do not have your 7 installation upgraded to 7.02.07 you must first upgrade to 7.02.07.
+If you do not have your 7 installation upgraded to 7.02.07 you must first upgrade to 7.02.07. And we recommend removing old infusions and panels written for v7, as they can cause a lot of php errors later after the upgrade.
 
 Because v9 has a better upgrade mechanism, you can upgrade directly to the latest v9.
 
