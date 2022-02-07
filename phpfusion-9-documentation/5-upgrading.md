@@ -14,7 +14,7 @@ You can download all versions from our [Archive](https://github.com/PHPFusion/Ar
 
 **The backup procedure**
 
-You can back up database using our Backup tool (is not recommended and use it only if you do not have access to tools like phpMyAdmin) in System Admin section, or you can phpMyAdmin (recommended) or any other tool for managing databases. 
+You can backup database using our Backup tool in System Admin section, or you can use phpMyAdmin (recommended) or any other tool for managing databases.
 
 Once you have the database backed up, open the FTP program and log in to your server. Select all the files and folders and transfer them to your local computer.
 
@@ -38,7 +38,7 @@ Because v9 has a better upgrade mechanism, you can upgrade directly to the lates
 If you do not have your 7 installation upgraded to 7.02.07 you must first upgrade to 7.02.07.
 We also recommend removing old infusions and panels written for v7, as they can cause a lot of PHP errors later after the upgrade.
 
-If you have uploaded all new v9 files, make sure your server meets system requirements.
+Before running upgrade, make sure that your server meets the system requirements.
 
 To upgrade your site open `https://yourdomain.com/install.php` and follow the instructions, click, click and click until done.
 
