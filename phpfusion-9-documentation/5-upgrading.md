@@ -14,7 +14,7 @@ You can download all versions from our [Archive](https://github.com/PHPFusion/Ar
 
 **The backup procedure**
 
-You can back up database using our Backup tool in System Admin section, or you can phpMyAdmin or any other tool for managing databases. 
+You can back up database using our Backup tool (is not recommended and use it only if you do not have access to tools like phpMyAdmin) in System Admin section, or you can phpMyAdmin (recommended) or any other tool for managing databases. 
 
 Once you have the database backed up, open the FTP program and log in to your server. Select all the files and folders and transfer them to your local computer.
 
