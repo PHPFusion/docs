@@ -1,1 +1,3 @@
-# SQL Helper functions and functions for arrays output manipulation
+# SQL Helper functions
+
+Functions for manipulating SQL and arrays
