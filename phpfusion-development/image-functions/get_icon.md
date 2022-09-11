@@ -30,7 +30,8 @@ This list is extensive but not exhaustive as it can be added with any names with
 
 During this list was made, the latest public icon release on font awesome package is FontAwesome 5 which can be found on https://fontawesome.com/
 
-```private static $glyphicons = [
+```
+private static $glyphicons = [
         'plus'              => 'fa-regular fa-plus',
         'minus'             => 'fa-regular fa-minus',
         'up'                => 'fa-regular fa-up',
@@ -113,5 +114,6 @@ During this list was made, the latest public icon release on font awesome packag
         'bug'               => 'fa-regular fa-bug',
         'contact'           => 'fa-regular fa-square-phone',
         'covid'             => 'fa-regular fa-virus-covid',
-    ];```
+    ];
+    ```
 
